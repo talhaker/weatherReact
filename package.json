@@ -1,0 +1,22 @@
+{
+  "name": "weatherreact",
+  "version": "1.0.0",
+  "description": "React Weather-Chat project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talhaker/weatherReact.git"
+  },
+  "author": "Tal Haker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talhaker/weatherReact/issues"
+  },
+  "homepage": "https://github.com/talhaker/weatherReact#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
